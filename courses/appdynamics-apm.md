@@ -1,0 +1,3 @@
+# AppDynamics APM — Training & Certification Guide
+
+The [AppDynamics APM](https://www.koenig-solutions.com/appdynamics-apm-application-performance-monitoring-training-certification-course?utm_source=github&utm_medium=backlink&utm_campaign=github-publisher) course equips IT professionals with skills to monitor and optimize application performance in complex environments. It covers agent installation, transaction tracing, and anomaly detection using AppDynamics APM platform. Ideal for developers, operations teams, and architects facing modern challenges like microservices
