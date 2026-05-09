@@ -1,0 +1,3 @@
+# Advanced Junos Enterprise Switching Using Enhanced Layer 2 Software — Training & Certification Guide
+
+The [Advanced Junos Enterprise Switching Using Enhanced Layer 2 Software](https://www.koenig-solutions.com/advanced-junos-enterprise-switching-using-enhanced-layer-2-software-training?utm_source=github&utm_medium=backlink&utm_campaign=github-publisher) course explores in-depth Junos OS capabilities for enterprise environments, emphasizing enhanced Layer 2 switching on EX and QFX series devices. Designed for experienced network professionals, it covers complex configurations vital for scalable, secure LAN infrastructures. In modern IT, where data centers demand resilient Ethernet fabrics, Advanced Junos Enterprise Switching Using Enhanced Layer 2
